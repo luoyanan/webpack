@@ -5,7 +5,7 @@
     webpack --mode development
 ```
 但是运行报错如下：
-![未提供入口文件报错](../static/imgs/1.png)
+![image](https://raw.githubusercontent.com/luoyanan/webpack/master/images/1.png)
 由于webpack4.x中需要提供默认文件，因此新增src/index.js文件，再运行
 运行成功！
 此处应有图片-----------
